@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-affe115d1c.gltw2o0wvm.cn/sitemap.xml
